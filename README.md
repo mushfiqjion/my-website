@@ -1,2 +1,1 @@
-my-website
- https://mushfiqjion.github.io/my-website/
+https://mushfiqjion.github.io/my-website/
